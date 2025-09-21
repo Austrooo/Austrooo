@@ -13,10 +13,10 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
   <tbody>
     <tr>
       <td align="center">
-        ![Renara_Gameplay](https://github.com/user-attachments/assets/71f79295-dc72-4cd2-82f9-1ff62a595b9e)
+        <img src="https://github.com/user-attachments/assets/71f79295-dc72-4cd2-82f9-1ff62a595b9e" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        ![MofuMofuCafe_Gameplay](https://github.com/user-attachments/assets/5b2076ab-1bf7-493d-a5e5-5ef48db1d62a)
+        <img src="https://github.com/user-attachments/assets/5b2076ab-1bf7-493d-a5e5-5ef48db1d62a" alt="1" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
