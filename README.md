@@ -1,4 +1,4 @@
-![MofuMofuCafe_Gameplay](https://github.com/user-attachments/assets/45517ae5-b5bf-4893-8114-22b7a4b5f9c9)## Hi I'm Eric👋
+## Hi I'm Eric👋
 
 **📌About** <br>
 Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS University. My Role is Game Programmer. <br>
