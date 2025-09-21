@@ -29,3 +29,34 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
     </tr>
   </tbody>
 </table>
+
+<br>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center"><a>Nurture Spree</a></th> <!--title-->
+      <th width="50%" align="center"><a>RATED</a></th> <!--title-->
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="" alt="NurtureSpreeGIF" style="width:100%;height:auto;">
+      </td>
+      <td align="center">
+        <img src="" alt="RATED GIF" style="width:100%;height:auto;">
+      </td>
+    </tr>
+    <tr>
+      <td valign="text-top">Rated desc**</td> <!--desc-->
+      <td valign="text-top">Nurture Spree desc**</td> <!--desc-->
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Nicholasdputra/Renara">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/Nicholasdputra/MofuMofu-Cafe">Read More</a></td> <!--link2-->
+    </tr>
+  </tbody>
+</table>
+
+
