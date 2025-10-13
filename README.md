@@ -45,8 +45,7 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
         <img src="" alt="NurtureSpreeGIF" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="![Uploading rated_gif.gif…]()
-" alt="RATED GIF" style="width:100%;height:auto;">
+        <img src="https://github.com/user-attachments/assets/0f5fc9ec-ccbd-4820-a212-bfd21ddac2b2" alt="RATED GIF" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
