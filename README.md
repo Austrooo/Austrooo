@@ -36,8 +36,7 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
   <thead>
     <tr>
       <th width="50%" align="center"><a>Nurture Spree</a></th> <!--title-->
-      <th width="50%" align="center"><a>RATED 
-        (1st Place GameToday 2025)</a></th> <!--title-->
+      <th width="50%" align="center"><a>RATED<br>(1st Place GameToday 2025)</a></th> <!--title-->
     </tr>
   </thead>
   <tbody>
