@@ -7,7 +7,7 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
   <thead>
     <tr>
       <th width="50%" align="center"><a>Renara</a></th> <!--title-->
-      <th width="50%" align="center"><a>Mofu Mofu Cafe</a></th> <!--title-->
+      <th width="50%" align="center"><a>Mofu Mofu Cafe<br>(Top 40 Student Category)</a></th> <!--title-->
     </tr>
   </thead>
   <tbody>
