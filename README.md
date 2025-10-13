@@ -54,7 +54,7 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Austrooo/RATED">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://github.com/Nicholasdputra/MofuMofu-Cafe">Read More</a></td> <!--link2-->
+      <td align="center"><a href="https://github.com/erixavero/babycooked">Read More</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
