@@ -53,8 +53,8 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
       <td valign="text-top">Rated is an Interactive Narrative game designed to show the effect of being Authentic or Not. This Project was developed for GameToday 2025 Competition.</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Austrooo/RATED">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://github.com/erixavero/babycooked">Read More</a></td> <!--link2-->
+      <td align="center"><a href="https://github.com/erixavero/babycooked">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/Austrooo/RATED">Read More</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
