@@ -45,15 +45,16 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
         <img src="" alt="NurtureSpreeGIF" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="" alt="RATED GIF" style="width:100%;height:auto;">
+        <img src="![Uploading rated_gif.gif…]()
+" alt="RATED GIF" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Rated desc**</td> <!--desc-->
       <td valign="text-top">Nurture Spree desc**</td> <!--desc-->
+      <td valign="text-top">Rated is an Interactive Narrative game designed to show the effect of being Authentic or Not. This Project was developed for GameToday Competition and **Won 1st Place**.</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Nicholasdputra/Renara">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/Austrooo/RATED">Read More</a></td> <!--link1-->
       <td align="center"><a href="https://github.com/Nicholasdputra/MofuMofu-Cafe">Read More</a></td> <!--link2-->
     </tr>
   </tbody>
