@@ -36,7 +36,7 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
   <thead>
     <tr>
       <th width="50%" align="center"><a>Nurture Spree</a></th> <!--title-->
-      <th width="50%" align="center"><a>RATED</a></th> <!--title-->
+      <th width="50%" align="center"><a>RATED (1st Place GameToday 2025)</a></th> <!--title-->
     </tr>
   </thead>
   <tbody>
@@ -50,7 +50,7 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
     </tr>
     <tr>
       <td valign="text-top">Nurture Spree desc**</td> <!--desc-->
-      <td valign="text-top">Rated is an Interactive Narrative game designed to show the effect of being Authentic or Not. This Project was developed for GameToday Competition and **Won 1st Place**.</td> <!--desc-->
+      <td valign="text-top">Rated is an Interactive Narrative game designed to show the effect of being Authentic or Not. This Project was developed for GameToday 2025 Competition.</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Austrooo/RATED">Read More</a></td> <!--link1-->
