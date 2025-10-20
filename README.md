@@ -1,8 +1,7 @@
 # Hi I'm Eric👋
-
-## **📌About**
 Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS University. My Role is Game Programmer.
 
+# My Projects 👨‍💻
 <table width="100%">
   <thead>
     <tr>
