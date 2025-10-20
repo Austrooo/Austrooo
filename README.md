@@ -1,12 +1,12 @@
 # Hi I'm Eric👋
 
-**📌About** <br>
-Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS University. My Role is Game Programmer. <br>
+## **📌About**
+Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS University. My Role is Game Programmer.
 
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Renara</a></th> <!--title-->
+      <th width="50%" align="center"><a>🌴 Renara</a></th> <!--title-->
       <th width="50%" align="center"><a>Mofu Mofu Cafe<br>(Top 40 Student Category)</a></th> <!--title-->
     </tr>
   </thead>
@@ -20,8 +20,42 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Renara is a 2D Top Down adventure game designed to teach players the importance of cultivating almost extinct plants. This game is developed for a project in the class Software Engineering. </td> <!--desc-->
-      <td valign="text-top">Mofu Mofu Case is a 2D Top Down Cozy game. Inspired by the game Diner Dash with a combination of cute and cozy like a pet cafe. This game is developed for a competition submission GameSEED 2025.</td> <!--desc-->
+      <td align="center">
+        <p>Renara is a 2D Top Down adventure game designed to teach players the importance of cultivating almost extinct plants. This game is developed for a project in the class Software Engineering.</p>
+        <br>
+        <p>Role : Game Programmer</p>
+        <h2>My Contributions</h2>
+        <table align="center"> <!--contribution table-->
+          <tr>
+            <td width="50%">
+              <li>Player Movement</li>
+              <li>Player Animation</li>
+            </td>
+            <td width="50%">
+              <li>Player Interaction</li>
+              <li>Object Interaction</li>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td align="center">
+        <p>Mofu Mofu Case is a 2D Top Down Cozy game. Inspired by the game Diner Dash with a combination of cute and cozy like a pet cafe. This game is developed for a competition submission GameSEED 2025.</p>
+        <br>
+        <p>Role : Game Programmer</p>
+        <h2>My Contributions</h2>
+        <table align="center"> <!--contribution table-->
+          <tr>
+            <td width="50%">
+              <li>Player Movement</li>
+              <li>Player Interaction</li>
+            </td>
+            <td width="50%">
+              <li>UI</li>
+              <li>Machine Logic</li>
+            </td>
+          </tr>
+        </table>
+      </td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Nicholasdputra/Renara">Read More</a></td> <!--link1-->
