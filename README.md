@@ -83,7 +83,24 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
     </tr>
     <tr>
       <td valign="text-top">Nurture Spree desc**</td> <!--desc-->
-      <td valign="text-top">Rated is an Interactive Narrative game designed to show the effect of being Authentic or Not. This Project was developed for GameToday 2025 Competition.</td> <!--desc-->
+      <td align="center">
+        <p>Rated is an Interactive Narrative game designed to show the effect of being Authentic or Not. This Project was developed for GameToday 2025 Competition.</p>
+        <br>
+        <p>Role : Game Programmer</p>
+        <h2>My Contributions</h2>
+        <table align="center"> <!--contribution table-->
+          <tr>
+            <td width="50%">
+              <li>Puzzle Mechanic</li>
+              <li>Menu and UIs</li>
+            </td>
+            <td width="50%">
+              <li>Transition effects</li>
+              <li>Unity Animations</li>
+            </td>
+          </tr>
+        </table>
+      </td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/erixavero/babycooked">Read More</a></td> <!--link1-->
