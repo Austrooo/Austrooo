@@ -1,5 +1,5 @@
 # Hi I'm Eric👋
-Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS University. My Role is Game Programmer.
+Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS University. My Role is Game Programmer. I like gaming and creating games that i trully enjoy, having your own creation enjoyed my people makes my day 😄.
 
 # My Projects 👨‍💻
 <table width="100%">
@@ -75,14 +75,31 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
   <tbody>
     <tr>
       <td align="center">
-        <img src="" alt="NurtureSpreeGIF" style="width:100%;height:auto;">
+        <img src="https://github.com/user-attachments/assets/0e001154-b81f-4f87-85d7-5dbb531a3b43" alt="NurtureSpreeGIF" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/0f5fc9ec-ccbd-4820-a212-bfd21ddac2b2" alt="RATED GIF" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Nurture Spree desc**</td> <!--desc-->
+     <td align="center">
+        <p>Nurture Spree is a 2D Top Down time and task management, where we play as a nurse of a baby daycare with multiple babies having their own needs. This project was developed for Research purposes.</p>
+        <br>
+        <p>Role : Game Programmer</p>
+        <h2>My Contributions</h2>
+        <table align="center"> <!--contribution table-->
+          <tr>
+            <td width="50%">
+              <li>Baby Spawning</li>
+              <li>Baby Interaction and Logic</li>
+            </td>
+            <td width="50%">
+              <li>Menu and UIs</li>
+              <li>Minigame Mechanics and Logics</li>
+            </td>
+          </tr>
+        </table>
+      </td> <!--desc-->
       <td align="center">
         <p>Rated is an Interactive Narrative game designed to show the effect of being Authentic or Not. This Project was developed for GameToday 2025 Competition.</p>
         <br>
@@ -108,5 +125,38 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
     </tr>
   </tbody>
 </table>
+
+---
+
+# My Project outside Game Development 🧑‍💻
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th>
+        <h1> Digipurse 👝 </h1><br>
+        All-in-one decentralized application that brings your digital identity, event tickets, documents, and payments together in a single, secure Web3 wallet.
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="text-align: center;">
+        <p>
+          - World Computer Hacker League 2025 Finalist<br>
+          - Contributed in Backend using Motoko Language.<br>
+          - 1st handling Web-Developemt in assisntance from Roony Soon, Martin Erickson, and Stefanus Abell Filio.<br>
+        </p>
+      </td>
+    </tr>
+    <tr>
+        <td align="center">
+          <a href="https://github.com/Kazeth/DigiPurse">ReadMore</a>
+        </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 
