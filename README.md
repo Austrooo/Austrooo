@@ -75,10 +75,10 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/0e001154-b81f-4f87-85d7-5dbb531a3b43" alt="NurtureSpreeGIF" style="width:100%;height:auto;">
+        <img src="https://github.com/user-attachments/assets/cf4fd38b-c7c4-409a-adc3-1b25d368d2de" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/0f5fc9ec-ccbd-4820-a212-bfd21ddac2b2" alt="RATED GIF" style="width:auto;height:auto;">
+        <img src="https://github.com/user-attachments/assets/0f5fc9ec-ccbd-4820-a212-bfd21ddac2b2" alt="1" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
@@ -87,12 +87,12 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
         <br>
         <p>Role : Game Programmer</p>
         <h2>My Contributions</h2>
-        <table align="center"> <!--contribution table-->
+        <table width="80%" align="center"> <!--contribution table-->
           <tr>
             <td width="50%">
               <li>Player Movement</li>
               <li>Baby Spawning</li>
-              <li>Baby Interaction and Logic</li>
+              <li>Baby Interaction <br>and Logic</li>
             </td>
             <td width="50%">
               <li>Player Interaction</li>
