@@ -78,7 +78,7 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
         <img src="https://github.com/user-attachments/assets/0e001154-b81f-4f87-85d7-5dbb531a3b43" alt="NurtureSpreeGIF" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/0f5fc9ec-ccbd-4820-a212-bfd21ddac2b2" alt="RATED GIF" style="width:100%;height:auto;">
+        <img src="https://github.com/user-attachments/assets/0f5fc9ec-ccbd-4820-a212-bfd21ddac2b2" alt="RATED GIF" style="width:auto;height:auto;">
       </td>
     </tr>
     <tr>
@@ -90,12 +90,15 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
         <table align="center"> <!--contribution table-->
           <tr>
             <td width="50%">
+              <li>Player Movement</li>
               <li>Baby Spawning</li>
               <li>Baby Interaction and Logic</li>
             </td>
             <td width="50%">
+              <li>Player Interaction</li>
+              <li>Particle System</li>
               <li>Menu and UIs</li>
-              <li>Minigame Mechanics and Logics</li>
+              <li>Minigame Logics</li>
             </td>
           </tr>
         </table>
@@ -108,6 +111,7 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
         <table align="center"> <!--contribution table-->
           <tr>
             <td width="50%">
+              <li>Interaction Logic</li>
               <li>Puzzle Mechanic</li>
               <li>Menu and UIs</li>
             </td>
