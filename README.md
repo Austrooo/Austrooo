@@ -149,7 +149,7 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
         <p>
           - World Computer Hacker League 2025 Regionalist<br>
           - Contributed in Backend using Motoko Language.<br>
-          - With assisntance from Roony Soon, Martin Erickson, and Stefanus Abell Filio.<br>
+          - With assisntance from <a href="https://github.com/Kazeth">Roony Soon</a>, <a href="https://github.com/MisMoela">Martin Erickson</a>, and <a href="https://github.com/abeliooo">Stefanus Abell Filio</a>.<br>
         </p>
       </td>
     </tr>
