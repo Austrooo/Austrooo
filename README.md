@@ -147,7 +147,7 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
     <tr>
       <td align="center" style="text-align: center;">
         <p>
-          - World Computer Hacker League 2025 Finalist<br>
+          - World Computer Hacker League 2025 Regionalist<br>
           - Contributed in Backend using Motoko Language.<br>
           - 1st handling Web-Developemt in assisntance from Roony Soon, Martin Erickson, and Stefanus Abell Filio.<br>
         </p>
