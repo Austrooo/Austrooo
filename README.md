@@ -64,8 +64,16 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
       </td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Austrooo/Nurture-Spree">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://github.com/Austrooo/RATED">Read More</a></td> <!--link2-->
+      <td align="center">
+        <a href="https://github.com/Austrooo/Nurture-Spree">Read More</a>
+        <br>
+        <a>No itch.io link at the moment</a>
+      </td> <!--link1-->
+      <td align="center">
+        <a href="https://github.com/Austrooo/RATED">Read More</a>
+        <br>
+        <a href="https://ajege.itch.io/rated">itch.io</a>
+      </td> <!--link2-->
     </tr>
   </tbody>
 </table>
@@ -129,8 +137,16 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
       </td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Nicholasdputra/Renara">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://github.com/Nicholasdputra/MofuMofu-Cafe">Read More</a></td> <!--link2-->
+      <td align="center">
+        <a href="https://github.com/Nicholasdputra/Renara">Read More</a>
+        <br>
+        <a href="https://nasimentega.itch.io/renara">itch.io</a>
+      </td> <!--link1-->
+      <td align="center">
+        <a href="https://github.com/Nicholasdputra/MofuMofu-Cafe">Read More</a>
+        <br>
+        <a href="https://nasimentega.itch.io/mofumofu-cafe">itch.io</a>
+      </td> <!--link2-->
     </tr>
   </tbody>
 </table>
@@ -143,8 +159,11 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
   <thead>
     <tr>
       <th>
-        <h1> Digipurse 👝 </h1><br>
-        All-in-one decentralized application that brings your digital identity, event tickets, documents, and payments together in a single, secure Web3 wallet.
+        <h1> Digipurse 👝 </h1>
+        <br>
+        <img src="https://github.com/user-attachments/assets/1048af96-1fc1-4e5f-8094-7b06aef3e7c6" alt="1" style="width:100%;height:auto;"/> 
+        <br>
+        <p>All-in-one decentralized application that brings your digital identity, event tickets, documents, and payments together in a single, secure Web3 wallet.</p>
       </th>
     </tr>
   </thead>
