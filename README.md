@@ -40,6 +40,7 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
             </td>
           </tr>
         </table>
+       <p>Work Duration : 40-50 Hours</p>
       </td> <!--desc-->
       <td align="center">
         <p>Rated is an Interactive Narrative game designed to show the effect of being Authentic or Not. This Project was developed for GameToday 2025 Competition.</p>
@@ -59,6 +60,7 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
             </td>
           </tr>
         </table>
+        <p>Work Duration : 20-30 Hours Month</p>
       </td> <!--desc-->
     </tr>
     <tr>
@@ -104,6 +106,7 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
             </td>
           </tr>
         </table>
+        <p>Work Duration : 20-30 Hours</p>
       </td>
       <td align="center">
         <p>Mofu Mofu Case is a 2D Top Down Cozy game. Inspired by the game Diner Dash with a combination of cute and cozy like a pet cafe. This game is developed for a competition submission GameSEED 2025.</p>
@@ -122,6 +125,7 @@ Hi, I'm Eric, also known as Austrooo. I'm a 5th Semester student at BINUS Univer
             </td>
           </tr>
         </table>
+        <p>Work Duration : 20-30 Hours</p>
       </td> <!--desc-->
     </tr>
     <tr>
